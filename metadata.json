@@ -1,0 +1,6 @@
+{
+  "name": "iFutureWallet Enterprise Control Panel",
+  "description": "Fintech Command Center for iFutureWallet™ managing Board, Executive, Departments, Partners, Developers, and IFW Coin ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
